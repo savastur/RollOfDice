@@ -1,4 +1,8 @@
-﻿using System.Security.Cryptography;
+﻿//Sturm Savage
+//RCET2265
+//Spring Semester 2026
+//https://github.com/savastur/RollOfDice.git
+using System.Security.Cryptography;
 
 namespace RollOfDice
 {
